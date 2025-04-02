@@ -1,4 +1,6 @@
-[![An image taken from Tyler Hobbs blog post "Reflections on Five Years of Making Art Through Programming"](/art/tyler_hobbs.png)](/art/tyler_hobbs.png)
+<p align="center">
+  <img width="500" src="/art/tyler_hobbs.png" alt='An image taken from Tyler Hobbs blog post "Reflections on Five Years of Making Art Through Programming"' />
+</p>
 
 ## Hi there 👋
 
