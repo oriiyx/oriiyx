@@ -24,6 +24,9 @@ I'm Peter, a software engineer with 6 years of experience building complex web a
     - Solo-developed the entire stack (React Native, Remix frontend, Golang backend)
     - Handled all aspects from infrastructure to marketing and design
 
+### 📝 Blog Posts
+- [Go Zerolog Setup with PGX](https://oriiyx.dev/posts/go-zerolog-setup-with-pgx) - Setting up structured logging with Zerolog and PGX in Go
+
 ### 💪 About Me
 
 - I thrive on challenging problems
