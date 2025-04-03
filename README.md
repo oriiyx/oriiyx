@@ -25,7 +25,9 @@ I'm Peter, a software engineer with 6 years of experience building complex web a
     - Handled all aspects from infrastructure to marketing and design
 
 ### 📝 Blog Posts
-- [Go Zerolog Setup with PGX](https://oriiyx.dev/posts/go-zerolog-setup-with-pgx) - Setting up structured logging with Zerolog and PGX in Go
+
+- [Go Zerolog Setup with PGX](https://oriiyx.dev/posts/go-zerolog-setup-with-pgx) - Setting up structured logging with
+  Zerolog and PGX in Go
 
 ### 💪 About Me
 
@@ -35,6 +37,7 @@ I'm Peter, a software engineer with 6 years of experience building complex web a
 
 ### 📫 Connect With Me
 
+- Portfolio: [peter-paravinja.me](https://peter-paravinja.me/)
 - Website: [oriiyx.dev](https://oriiyx.dev/)
 - LinkedIn: [Peter Paravinja](https://www.linkedin.com/in/peter-paravinja/)
 - Feel free to reach out via LinkedIn or DM me here on GitHub!
