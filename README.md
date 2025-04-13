@@ -8,14 +8,14 @@ I'm Peter, a software engineer with 6 years of experience building complex web a
 
 ### 💻 Tech Stack
 
-- **Languages**: Rust 🦀, Golang, PHP, JavaScript/TypeScript, Python
+- **Languages**: Golang, PHP, JavaScript/TypeScript, Python, Rust 🦀
 - **Focus Areas**: Web, Cryptography, Security & Mobile Development
+- **Wishlist Areas**: Hardware, embedded, 3D printing & tinkering
 
 ### 🔭 Currently Working On
 
-- Creating a SQLC port specifically for PHP and MySQL (in Rust 🦀)
-- Building an interactive CLI-inspired online resume
-- At [Netis](https://netis.si), developing applications and exploring passkey technology
+- Improving Kubernetes skills and learning infrastructure hacks
+- At [Netis](https://netis.si), developing applications, implementing deployment strategies and exploring passkey technology
   implementations
 
 ### 🚀 Projects
@@ -26,8 +26,8 @@ I'm Peter, a software engineer with 6 years of experience building complex web a
 
 ### 📝 Blog Posts
 
-- [Go Zerolog Setup with PGX](https://oriiyx.dev/posts/go-zerolog-setup-with-pgx) - Setting up structured logging with
-  Zerolog and PGX in Go
+<!-- DEVDOJO-POST-LIST:START -->
+<!-- DEVDOJO-POST-LIST:END -->
 
 ### 💪 About Me
 
