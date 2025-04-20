@@ -26,8 +26,8 @@ I'm Peter, a software engineer with 6 years of experience building complex web a
 
 ### 📝 Blog Posts
 
-<!-- DEVDOJO-POST-LIST:START -->
-<!-- DEVDOJO-POST-LIST:END -->
+<!-- DEV-POST-LIST:START -->
+<!-- DEV-POST-LIST:END -->
 
 ### 💪 About Me
 
@@ -39,5 +39,6 @@ I'm Peter, a software engineer with 6 years of experience building complex web a
 
 - Portfolio: [peter-paravinja.me](https://peter-paravinja.me/)
 - Website: [oriiyx.dev](https://oriiyx.dev/)
+- Blog: [dev.to/oriiyx](https://dev.to/oriiyx)
 - LinkedIn: [Peter Paravinja](https://www.linkedin.com/in/peter-paravinja/)
 - Feel free to reach out via LinkedIn or DM me here on GitHub!

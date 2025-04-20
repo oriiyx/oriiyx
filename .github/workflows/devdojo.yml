@@ -6,14 +6,14 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme-with-devdojo:
+  update-readme-with-dev:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "DEVDOJO-POST-LIST"
-          feed_list: "https://devdojo.com/feed/peter-paravinja"
-          commit_message: "Add post from DevDojo"
+          comment_tag_name: "DEV-POST-LIST"
+          feed_list: "https://dev.to/feed/oriiyx"
+          commit_message: "Add post from Dev"
           committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
