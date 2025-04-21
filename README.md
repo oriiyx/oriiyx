@@ -27,6 +27,8 @@ I'm Peter, a software engineer with 6 years of experience building complex web a
 ### 📝 Blog Posts
 
 <!-- DEV-POST-LIST:START -->
+- [Go zerolog setup with pgx](https://dev.to/oriiyx/go-zerolog-setup-with-pgx-1p)
+- [Background Process Communication in CLI Applications](https://dev.to/oriiyx/background-process-communication-in-cli-applications-3gol)
 <!-- DEV-POST-LIST:END -->
 
 ### 💪 About Me
