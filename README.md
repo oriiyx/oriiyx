@@ -27,6 +27,7 @@ I'm Peter, a software engineer with 6 years of experience building complex web a
 ### 📝 Blog Posts
 
 <!-- DEV-POST-LIST:START -->
+- [Implementing log rotate in Go](https://dev.to/oriiyx/implementing-log-rotate-in-go-2abo)
 - [Migrations with Go &amp; Postgres](https://dev.to/oriiyx/migrations-with-go-postgres-54m9)
 - [Go zerolog setup with pgx](https://dev.to/oriiyx/go-zerolog-setup-with-pgx-1p)
 - [Background Process Communication in CLI Applications](https://dev.to/oriiyx/background-process-communication-in-cli-applications-3gol)
