@@ -27,11 +27,11 @@ I'm Peter, a software engineer with 6 years of experience building complex web a
 ### 📝 Blog Posts
 
 <!-- DEV-POST-LIST:START -->
+- [Debug Go with Air](https://dev.to/oriiyx/debug-go-with-air-5djg)
 - [Adding Request ID to Go&#39;s requests](https://dev.to/oriiyx/adding-request-id-to-gos-requests-3ejn)
 - [Implementing log rotate in Go](https://dev.to/oriiyx/implementing-log-rotate-in-go-2abo)
 - [Migrations with Go &amp; Postgres](https://dev.to/oriiyx/migrations-with-go-postgres-54m9)
 - [Go zerolog setup with pgx](https://dev.to/oriiyx/go-zerolog-setup-with-pgx-1p)
-- [Background Process Communication in CLI Applications](https://dev.to/oriiyx/background-process-communication-in-cli-applications-3gol)
 <!-- DEV-POST-LIST:END -->
 
 ### 💪 About Me
