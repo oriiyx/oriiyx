@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 
-I'm Peter, a software engineer with 6 years of experience building complex web applications and some mobile development.
+I'm Peter, a software engineer with 7 years of experience building complex web applications and some mobile development.
 
 ### 💻 Tech Stack
 
