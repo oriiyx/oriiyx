@@ -20,7 +20,8 @@ I'm Peter, a software engineer with 7 years of experience building complex web a
 
 ### 🚀 Projects
 
-- [BookTime](https://booktime.co) - A book reading tracking app designed for book clubs
+- [fritz](https://github.com/oriiyx/fritz) - Go framework
+- [BookTime](https://booktime.co) (sunset) - A book reading tracking app designed for book clubs
     - Solo-developed the entire stack (React Native, Remix frontend, Golang backend)
     - Handled all aspects from infrastructure to marketing and design
 
