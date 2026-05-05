@@ -29,11 +29,11 @@ I'm Peter, a software engineer with 7 years of experience building complex web a
 ### 📝 Blog Posts
 
 <!-- DEV-POST-LIST:START -->
+- [How to proceed](https://dev.to/oriiyx/how-to-proceed-4nf7)
 - [SIMD in GO](https://dev.to/oriiyx/simd-in-go-7oa)
 - [Debug Go with Air](https://dev.to/oriiyx/debug-go-with-air-5djg)
 - [Adding Request ID to Go&#39;s requests](https://dev.to/oriiyx/adding-request-id-to-gos-requests-3ejn)
 - [Implementing log rotate in Go](https://dev.to/oriiyx/implementing-log-rotate-in-go-2abo)
-- [Migrations with Go &amp; Postgres](https://dev.to/oriiyx/migrations-with-go-postgres-54m9)
 <!-- DEV-POST-LIST:END -->
 
 ### 💪 About Me
