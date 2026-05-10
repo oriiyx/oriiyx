@@ -37,9 +37,11 @@ I'm Peter, a software engineer with 7 years of experience building complex web a
 
 ### 💪 About Me
 
-- I thrive on challenging problems
-- Currently focused on improving my soft skills
-- Deep experience in complex web applications
+Day job is web and backend infra, but the craft I keep coming back to is performance-conscious, data-oriented design.
+
+- Currently working through Richard Fabian's *Data-Oriented Design*
+- Drawn to the handmade philosophy (Muratori, Acton) — I'd rather understand the machine than abstract it away
+- Tinker with game dev in C on the side, mostly as an excuse to get closer to the OS and low-level systems
 
 ### 📫 Connect With Me
 
