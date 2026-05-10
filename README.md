@@ -20,7 +20,6 @@ I'm Peter, a software engineer with 7 years of experience building complex web a
 
 ### 🚀 Projects
 
-- ship - Top Down Horror game in Unity
 - [fritz](https://github.com/oriiyx/fritz) - Complete Go framework system
 - [BookTime](https://booktime.co) (sunset) - A book reading tracking app designed for book clubs
     - Solo-developed the entire stack (React Native, Remix frontend, Golang backend)
