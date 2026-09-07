@@ -4,26 +4,12 @@
 
 ## Hi there 👋
 
-I'm Peter, a software engineer with 7 years of experience building complex web applications and some mobile development.
+I'm Peter, a software engineer with 8 years of experience building complex web applications and some mobile development.
 
 ### 💻 Tech Stack
 
-- **Languages**: Golang, PHP, JavaScript/TypeScript, Python, Rust 🦀
-- **Focus Areas**: Web, Cryptography, Security & Mobile Development
-- **Wishlist Areas**: Hardware, embedded, 3D printing & tinkering
+- **Languages**: Golang, PHP, JavaScript/TypeScript, Python, C, Odin
 
-### 🔭 Currently Working On
-
-- Improving Kubernetes skills and learning infrastructure hacks
-- At [Netis](https://netis.si), developing applications, implementing deployment strategies and exploring passkey technology
-  implementations
-
-### 🚀 Projects
-
-- [fritz](https://github.com/oriiyx/fritz) - Complete Go framework system
-- [BookTime](https://booktime.co) (sunset) - A book reading tracking app designed for book clubs
-    - Solo-developed the entire stack (React Native, Remix frontend, Golang backend)
-    - Handled all aspects from infrastructure to marketing and design
 
 ### 📝 Blog Posts
 
@@ -37,9 +23,6 @@ I'm Peter, a software engineer with 7 years of experience building complex web a
 
 ### 💪 About Me
 
-Day job is web and backend infra, but the craft I keep coming back to is performance-conscious, data-oriented design.
-
-- Currently working through Richard Fabian's *Data-Oriented Design*
 - Drawn to the handmade philosophy (Muratori, Acton) — I'd rather understand the machine than abstract it away
 - Tinker with game dev in C on the side, mostly as an excuse to get closer to the OS and low-level systems
 
